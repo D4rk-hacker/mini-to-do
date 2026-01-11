@@ -1,4 +1,4 @@
-#🚀 Mini To-Do Manager
+# 🚀 Mini To-Do Manager
 A minimalist terminal-based task manager with colorful interface. Simple and elegant solution for managing daily tasks without unnecessary complexity.
 
 ✨ Features
