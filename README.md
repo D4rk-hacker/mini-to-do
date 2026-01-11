@@ -19,7 +19,6 @@ bash
 git clone https://github.com/D4rk-hacker/mini-to-do
 cd mini-to-do
 python todo.py
-📋 Requirements
-Python 3.6+
-
-ANSI-compatible terminal
+📋 Requirements;
+1. Python 3.6+
+2.ANSI-compatible terminal
